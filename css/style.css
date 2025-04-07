@@ -1,0 +1,53 @@
+.playwrite-cu-{
+    font-family: "Playwrite CU", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .oswald-{
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-size: 1.2rem;
+  }
+  
+  
+
+  #hakkimda p{
+    font-size: 1.1rem;
+    line-height: 1.6;
+  }
+
+  #hakkimda .lead{
+    font-weight: 500;
+    color: #2c3e50;
+  }
+
+  .section-padding {
+    padding: 60px 0;
+}
+
+.transition-hover {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.transition-hover:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+
+.card-body {
+    padding: 1.5rem;
+}
+
+.text-muted {
+    font-size: 0.95rem;
+    line-height: 1.5;
+}
